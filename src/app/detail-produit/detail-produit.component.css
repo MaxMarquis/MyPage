@@ -1,0 +1,20 @@
+:host {
+  display: flex;
+  background-color: rgb(252, 183, 189);
+  flex-grow: 8;
+  margin: 1em;
+  border: 1px solid black;
+  padding: .25em;
+}
+
+
+h1 {
+  font-size: 1.2em;
+  border: 1px solid black;
+  padding: .25em 1em;
+}
+
+p {
+  border: 1px solid black;
+  padding: .25em 1em;
+}
